@@ -1,4 +1,4 @@
-# Turing_college
+# Turing College Demo Task
 ## Intro
 - Module 1: Data Science Fundamentals Demo Made by Tomas Mecius
 ## Requirements
