@@ -7,5 +7,5 @@
 - numpy 1.x
 - matplotlib 3.x
 - Other in requirements file
-## Run in Terminal
+## Run in Notebooks:
 - This x.ipynb file. It has to be opened in Google Colab or Jupyter Notebook.
